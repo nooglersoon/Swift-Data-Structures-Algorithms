@@ -32,5 +32,10 @@ var newStack2: Stack = [1.0, 2.0, 3.0, 4.0]
 print(newStack2)
 newStack2.pop()
 
-
 ```
+
+### Stack Challenges Test Case
+
+1. reverseArray(["aji","fauzi","achmad"])
+2. print(balanceTheParentheses("h((e))llo(world)()"))
+3. print(balanceTheParentheses("(hello world"))
